@@ -12,3 +12,15 @@ Implement the nearest neighbor distance ratio test using the pre-computed SIFT f
 <img src='Results/output.png'>
 <br>
 <img src='Results/output_2.png'>
+
+# Folder Structure
+```
+📦Object-Instance-Recognition
+ ┣ 📂Results
+ ┃ ┣ 📜output.png
+ ┃ ┗ 📜output_2.png
+ ┣ 📜.gitignore
+ ┣ 📜LICENSE
+ ┣ 📜Object_Instance_Recognition.ipynb
+ ┗ 📜README.md
+```
