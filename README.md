@@ -10,4 +10,5 @@ Implement the nearest neighbor distance ratio test using the pre-computed SIFT f
 
 # Results
 <img src='Results/output.png'>
+<br>
 <img src='Results/output_2.png'>
